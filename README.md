@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div style:"background-color:#050F2C">
-![Pengy-yay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengy-yay&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengy-yay&layout=donut&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<img src"=https://github-readme-stats.vercel.app/api?username=Pengy-yay&show_icons=true&theme=algolia">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pengy-yay&layout=donut&theme=algolia">
 </div>
 
 <!--
