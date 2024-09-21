@@ -1,9 +1,11 @@
 ## Hi there 👋
 I do stuff
 
-check out stats<br>
+check out stats
+<br>
 ![Pengy-yay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengy-yay&show_icons=true&theme=algolia)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengy-yay&layout=donut&theme=algolia)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengy-yay&layout=donut&theme=algolia)
+<br>
 ![Stuff](https://streak-stats.demolab.com/?user=Pengy-yay&type=streak&theme=algolia)
 
 <!--
