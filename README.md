@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div style:"background-color:#050F2C">
-<img src"=https://github-readme-stats.vercel.app/api?username=Pengy-yay&show_icons=true&theme=algolia">
+<img src="https://github-readme-stats.vercel.app/api?username=Pengy-yay&show_icons=true&theme=algolia">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pengy-yay&layout=donut&theme=algolia">
 </div>
 
